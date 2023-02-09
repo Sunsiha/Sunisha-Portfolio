@@ -15,8 +15,7 @@ mixin AppConstants {
   static const String stackoverflow =
       'https://stackoverflow.com/users/5146756/sunisha-guptan';
 
-  static const String instagram =
-      'https://instagram.com/sunisha_guptan';
+  static const String instagram = 'https://instagram.com/sunisha_guptan';
 
   static const String cv = '';
 }
