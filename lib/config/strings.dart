@@ -8,7 +8,7 @@ mixin AppStrings {
   static const l005CallMe = 'Call Me:';
   static const l006VisitMe = 'Visit Me:';
   static const l007DetailedAboutMe =
-      'I am having 8+ years of sound professional hands-on experience in building mobile applications to '
+      'I am having 9+ years of sound professional hands-on experience in building mobile applications to '
       'various projects, with a track record of getting big things done and passion for building great products. I make it as my goal to create software '
       'with the user in mind, creating applications with a usable and intuitive user interface experience with MVC/MVP/MVVM '
       'architecture. I also understand the importance of creating highly readable and maintainable source code. I am constantly striving to learn new '
